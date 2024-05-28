@@ -44,8 +44,6 @@ This project aims to enhance inventory management practices by combining custome
 - **ARIMA and SARIMA Forecasting:** Implementing time series models to predict sales with and without seasonality.
 - **Inventory Optimization:** Adjusting inventory levels based on sales forecasts to minimize costs and meet customer demand.
 
-### Target Audience
-This project is intended for businesses looking to improve their inventory management strategies, particularly in retail and e-commerce sectors.
 
 ### Tools Used
 Python (Pandas, NumPy, Matplotlib, Scikit-Learn, Statsmodels), Jupyter Notebook for analysis and visualization.
